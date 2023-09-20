@@ -1,5 +1,9 @@
 ### Hello there !
 
+I'm a fan of 3D graphics, rendering, VFX and anything technical.
+Currently working on the Star Wars Racer decompilation project.
+
+I'm looking for an end of graduation internship for spring 2024
 
 
 <!--
